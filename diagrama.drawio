@@ -4,256 +4,256 @@
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
-                <mxCell id="2" value="inicio" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                <mxCell id="2" value="inicio" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFCCCC;" parent="1" vertex="1">
                     <mxGeometry x="260" y="50" width="120" height="80" as="geometry"/>
                 </mxCell>
-                <mxCell id="7" value="&quot;definir variables del juego&quot;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                <mxCell id="7" value="&quot;definir variables del juego&quot;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFE6CC;" parent="1" vertex="1">
                     <mxGeometry x="260" y="200" width="120" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="9" value="" style="endArrow=classic;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="7">
+                <mxCell id="9" value="" style="endArrow=classic;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" target="7" edge="1">
                     <mxGeometry width="50" height="50" relative="1" as="geometry">
                         <mxPoint x="320" y="130" as="sourcePoint"/>
                         <mxPoint x="370" y="80" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="11" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+                <mxCell id="11" value="" style="endArrow=classic;html=1;" parent="1" edge="1">
                     <mxGeometry width="50" height="50" relative="1" as="geometry">
                         <mxPoint x="320" y="260" as="sourcePoint"/>
                         <mxPoint x="320" y="320" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="12" value="&quot;cargar imagenes&quot;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                <mxCell id="12" value="&quot;cargar imagenes&quot;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFCCCC;" parent="1" vertex="1">
                     <mxGeometry x="260" y="320" width="120" height="40" as="geometry"/>
                 </mxCell>
-                <mxCell id="13" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+                <mxCell id="13" value="" style="endArrow=classic;html=1;" parent="1" edge="1">
                     <mxGeometry width="50" height="50" relative="1" as="geometry">
                         <mxPoint x="320" y="360" as="sourcePoint"/>
                         <mxPoint x="320" y="400" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="14" value="&amp;nbsp;&quot;Bucle principal:&lt;div&gt;&lt;font color=&quot;#000000&quot;&gt;while parar_ juego==&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#000000&quot;&gt;&lt;font color=&quot;#000000&quot;&gt;false&quot;&lt;br&gt;&lt;/font&gt;&lt;/font&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                <mxCell id="14" value="&amp;nbsp;&quot;Bucle principal:&lt;div&gt;&lt;font color=&quot;#000000&quot;&gt;while parar_ juego==&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#000000&quot;&gt;&lt;font color=&quot;#000000&quot;&gt;false&quot;&lt;br&gt;&lt;/font&gt;&lt;/font&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#E6E6E6;" parent="1" vertex="1">
                     <mxGeometry x="240" y="400" width="160" height="110" as="geometry"/>
                 </mxCell>
-                <mxCell id="16" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+                <mxCell id="16" value="" style="endArrow=classic;html=1;" parent="1" edge="1">
                     <mxGeometry width="50" height="50" relative="1" as="geometry">
                         <mxPoint x="320" y="510" as="sourcePoint"/>
                         <mxPoint x="320" y="560" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="17" value="&quot;gestionar eventos:&lt;div&gt;pygame.event.get{}&quot;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                <mxCell id="17" value="&quot;gestionar eventos:&lt;div&gt;pygame.event.get{}&quot;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFCCCC;" parent="1" vertex="1">
                     <mxGeometry x="260" y="560" width="120" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="18" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+                <mxCell id="18" value="" style="endArrow=classic;html=1;" parent="1" edge="1">
                     <mxGeometry width="50" height="50" relative="1" as="geometry">
                         <mxPoint x="320" y="620" as="sourcePoint"/>
                         <mxPoint x="320" y="680" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="19" value="&quot;¿evento de teclado?&quot;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                <mxCell id="19" value="&quot;¿evento de teclado?&quot;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#FF9999;" parent="1" vertex="1">
                     <mxGeometry x="275" y="680" width="90" height="80" as="geometry"/>
                 </mxCell>
-                <mxCell id="21" value="" style="endArrow=none;html=1;" edge="1" parent="1">
+                <mxCell id="21" value="" style="endArrow=none;html=1;" parent="1" edge="1">
                     <mxGeometry width="50" height="50" relative="1" as="geometry">
                         <mxPoint x="364" y="720" as="sourcePoint"/>
                         <mxPoint x="441" y="720" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="22" value="" style="endArrow=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="19">
+                <mxCell id="22" value="" style="endArrow=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="19" edge="1">
                     <mxGeometry width="50" height="50" relative="1" as="geometry">
                         <mxPoint x="200" y="720" as="sourcePoint"/>
                         <mxPoint x="270" y="720" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="23" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+                <mxCell id="23" value="" style="endArrow=classic;html=1;" parent="1" edge="1">
                     <mxGeometry width="50" height="50" relative="1" as="geometry">
                         <mxPoint x="440" y="720" as="sourcePoint"/>
                         <mxPoint x="440" y="760" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="24" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+                <mxCell id="24" value="" style="endArrow=classic;html=1;" parent="1" edge="1">
                     <mxGeometry width="50" height="50" relative="1" as="geometry">
                         <mxPoint x="200" y="720" as="sourcePoint"/>
                         <mxPoint x="200" y="760" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="25" value="se verifica si preciono la&amp;nbsp; tecla esc" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                <mxCell id="25" value="se verifica si preciono la&amp;nbsp; tecla esc" style="rhombus;whiteSpace=wrap;html=1;fillColor=#E6E6E6;" parent="1" vertex="1">
                     <mxGeometry x="150" y="760" width="100" height="80" as="geometry"/>
                 </mxCell>
-                <mxCell id="26" value="&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;se verifica si se presiona la flecha derecha.&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                <mxCell id="26" value="&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;se verifica si se presiona la flecha derecha.&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#E6E6E6;" parent="1" vertex="1">
                     <mxGeometry x="390" y="760" width="100" height="90" as="geometry"/>
                 </mxCell>
-                <mxCell id="27" value="" style="endArrow=none;html=1;" edge="1" parent="1">
+                <mxCell id="27" value="" style="endArrow=none;html=1;" parent="1" edge="1">
                     <mxGeometry width="50" height="50" relative="1" as="geometry">
                         <mxPoint x="330" y="800" as="sourcePoint"/>
                         <mxPoint x="390" y="800" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="28" value="" style="endArrow=none;html=1;" edge="1" parent="1">
+                <mxCell id="28" value="" style="endArrow=none;html=1;" parent="1" edge="1">
                     <mxGeometry width="50" height="50" relative="1" as="geometry">
                         <mxPoint x="329.5" y="840" as="sourcePoint"/>
                         <mxPoint x="329.5" y="800" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="29" value="se verifica si se preciona la flecha izquierda.l" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                <mxCell id="29" value="se verifica si se preciona la flecha izquierda.l" style="rhombus;whiteSpace=wrap;html=1;fillColor=#E6E6E6;" parent="1" vertex="1">
                     <mxGeometry x="280" y="840" width="100" height="110" as="geometry"/>
                 </mxCell>
-                <mxCell id="32" value="" style="endArrow=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="26">
+                <mxCell id="32" value="" style="endArrow=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="26" edge="1">
                     <mxGeometry width="50" height="50" relative="1" as="geometry">
                         <mxPoint x="500" y="800" as="sourcePoint"/>
                         <mxPoint x="560" y="805" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="33" value="" style="endArrow=none;html=1;" edge="1" parent="1" source="26">
+                <mxCell id="33" value="" style="endArrow=none;html=1;" parent="1" source="26" edge="1">
                     <mxGeometry width="50" height="50" relative="1" as="geometry">
                         <mxPoint x="490" y="855" as="sourcePoint"/>
                         <mxPoint x="560.7106781186548" y="805" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="34" value="" style="endArrow=none;html=1;" edge="1" parent="1">
+                <mxCell id="34" value="" style="endArrow=none;html=1;" parent="1" edge="1">
                     <mxGeometry width="50" height="50" relative="1" as="geometry">
                         <mxPoint x="560" y="840" as="sourcePoint"/>
                         <mxPoint x="560" y="800" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="35" value="se verifica si el cohete&lt;div&gt;se ha salido de la&amp;nbsp;&lt;/div&gt;&lt;div&gt;pantalla.&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                <mxCell id="35" value="se verifica si el cohete&lt;div&gt;se ha salido de la&amp;nbsp;&lt;/div&gt;&lt;div&gt;pantalla.&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#FFCCCC;" parent="1" vertex="1">
                     <mxGeometry x="480" y="840" width="160" height="95" as="geometry"/>
                 </mxCell>
-                <mxCell id="39" value="" style="endArrow=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="35">
+                <mxCell id="39" value="" style="endArrow=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="35" edge="1">
                     <mxGeometry width="50" height="50" relative="1" as="geometry">
                         <mxPoint x="440" y="888" as="sourcePoint"/>
                         <mxPoint x="480" y="880" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="40" value="" style="endArrow=none;html=1;" edge="1" parent="1">
+                <mxCell id="40" value="" style="endArrow=none;html=1;" parent="1" edge="1">
                     <mxGeometry width="50" height="50" relative="1" as="geometry">
                         <mxPoint x="440" y="960" as="sourcePoint"/>
                         <mxPoint x="440" y="890" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="41" value="si el cohete esta fuera&lt;div&gt;de los limites, el juego terminara.&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                <mxCell id="41" value="si el cohete esta fuera&lt;div&gt;de los limites, el juego terminara.&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FF9999;" parent="1" vertex="1">
                     <mxGeometry x="380" y="960" width="120" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="42" value="" style="endArrow=none;html=1;" edge="1" parent="1">
+                <mxCell id="42" value="" style="endArrow=none;html=1;" parent="1" edge="1">
                     <mxGeometry width="50" height="50" relative="1" as="geometry">
                         <mxPoint x="640" y="887" as="sourcePoint"/>
                         <mxPoint x="720" y="887" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="44" value="" style="endArrow=none;html=1;" edge="1" parent="1">
+                <mxCell id="44" value="" style="endArrow=none;html=1;" parent="1" edge="1">
                     <mxGeometry width="50" height="50" relative="1" as="geometry">
                         <mxPoint x="720" y="920" as="sourcePoint"/>
                         <mxPoint x="720" y="890" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="45" value="se limpia la pantalla con el color de fondo." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                <mxCell id="45" value="se limpia la pantalla con el color de fondo." style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E6E6E6;" parent="1" vertex="1">
                     <mxGeometry x="670" y="920" width="120" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="46" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+                <mxCell id="46" value="" style="endArrow=classic;html=1;" parent="1" edge="1">
                     <mxGeometry width="50" height="50" relative="1" as="geometry">
                         <mxPoint x="730" y="980" as="sourcePoint"/>
                         <mxPoint x="730" y="1040" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="47" value="se dibujan los planetas en sus posiciones actuales." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                <mxCell id="47" value="se dibujan los planetas en sus posiciones actuales." style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFCCCC;" parent="1" vertex="1">
                     <mxGeometry x="670" y="1040" width="120" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="48" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+                <mxCell id="48" value="" style="endArrow=classic;html=1;" parent="1" edge="1">
                     <mxGeometry width="50" height="50" relative="1" as="geometry">
                         <mxPoint x="740" y="1100" as="sourcePoint"/>
                         <mxPoint x="740" y="1160" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="49" value="se actualiza la posicion de los planetas para que se mueva hacia bajo" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                <mxCell id="49" value="se actualiza la posicion de los planetas para que se mueva hacia bajo" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E6E6E6;" parent="1" vertex="1">
                     <mxGeometry x="680" y="1160" width="120" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="50" value="" style="endArrow=none;html=1;" edge="1" parent="1">
+                <mxCell id="50" value="" style="endArrow=none;html=1;" parent="1" edge="1">
                     <mxGeometry width="50" height="50" relative="1" as="geometry">
                         <mxPoint x="760" y="1280" as="sourcePoint"/>
                         <mxPoint x="760" y="1220" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="51" value="" style="endArrow=none;html=1;" edge="1" parent="1">
+                <mxCell id="51" value="" style="endArrow=none;html=1;" parent="1" edge="1">
                     <mxGeometry width="50" height="50" relative="1" as="geometry">
                         <mxPoint x="560" y="1280" as="sourcePoint"/>
                         <mxPoint x="760" y="1280" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="52" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+                <mxCell id="52" value="" style="endArrow=classic;html=1;" parent="1" edge="1">
                     <mxGeometry width="50" height="50" relative="1" as="geometry">
                         <mxPoint x="560" y="1280" as="sourcePoint"/>
                         <mxPoint x="560" y="1320" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="53" value="se verifica si algun&lt;div&gt;planeta ha salido de&lt;/div&gt;&lt;div&gt;la pantalla&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                <mxCell id="53" value="se verifica si algun&lt;div&gt;planeta ha salido de&lt;/div&gt;&lt;div&gt;la pantalla&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#FFCCCC;" parent="1" vertex="1">
                     <mxGeometry x="505" y="1320" width="110" height="110" as="geometry"/>
                 </mxCell>
-                <mxCell id="54" value="" style="endArrow=none;html=1;" edge="1" parent="1">
+                <mxCell id="54" value="" style="endArrow=none;html=1;" parent="1" edge="1">
                     <mxGeometry width="50" height="50" relative="1" as="geometry">
                         <mxPoint x="610" y="1380" as="sourcePoint"/>
                         <mxPoint x="680" y="1380" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="55" value="" style="endArrow=none;html=1;" edge="1" parent="1">
+                <mxCell id="55" value="" style="endArrow=none;html=1;" parent="1" edge="1">
                     <mxGeometry width="50" height="50" relative="1" as="geometry">
                         <mxPoint x="680" y="1380" as="sourcePoint"/>
                         <mxPoint x="680" y="1440" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="56" value="se verifica si el cohete ha colisionado con algun planeta." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                <mxCell id="56" value="se verifica si el cohete ha colisionado con algun planeta." style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FF9999;" parent="1" vertex="1">
                     <mxGeometry x="640" y="1440" width="120" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="57" value="" style="endArrow=none;html=1;" edge="1" parent="1">
+                <mxCell id="57" value="" style="endArrow=none;html=1;" parent="1" edge="1">
                     <mxGeometry width="50" height="50" relative="1" as="geometry">
                         <mxPoint x="440" y="1370" as="sourcePoint"/>
                         <mxPoint x="510" y="1370" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="58" value="" style="endArrow=none;html=1;" edge="1" parent="1">
+                <mxCell id="58" value="" style="endArrow=none;html=1;" parent="1" edge="1">
                     <mxGeometry width="50" height="50" relative="1" as="geometry">
                         <mxPoint x="440" y="1440" as="sourcePoint"/>
                         <mxPoint x="440" y="1370" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="59" value="se reposionan los planetas y se actualizan la puntuacion" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                <mxCell id="59" value="se reposionan los planetas y se actualizan la puntuacion" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFE6CC;" parent="1" vertex="1">
                     <mxGeometry x="380" y="1440" width="120" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="60" value="" style="endArrow=none;html=1;" edge="1" parent="1">
+                <mxCell id="60" value="" style="endArrow=none;html=1;" parent="1" edge="1">
                     <mxGeometry width="50" height="50" relative="1" as="geometry">
                         <mxPoint x="710" y="1562" as="sourcePoint"/>
                         <mxPoint x="710" y="1500" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="61" value="" style="endArrow=none;html=1;" edge="1" parent="1">
+                <mxCell id="61" value="" style="endArrow=none;html=1;" parent="1" edge="1">
                     <mxGeometry width="50" height="50" relative="1" as="geometry">
                         <mxPoint x="640" y="1560" as="sourcePoint"/>
                         <mxPoint x="710" y="1560" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="62" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+                <mxCell id="62" value="" style="endArrow=classic;html=1;" parent="1" edge="1">
                     <mxGeometry width="50" height="50" relative="1" as="geometry">
                         <mxPoint x="640" y="1560" as="sourcePoint"/>
                         <mxPoint x="640" y="1600" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="63" value="se verifica si hubo&lt;div&gt;colesion&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                <mxCell id="63" value="se verifica si hubo&lt;div&gt;colesion&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#E6E6E6;" parent="1" vertex="1">
                     <mxGeometry x="590" y="1600" width="100" height="80" as="geometry"/>
                 </mxCell>
-                <mxCell id="64" value="" style="endArrow=none;html=1;" edge="1" parent="1">
+                <mxCell id="64" value="" style="endArrow=none;html=1;" parent="1" edge="1">
                     <mxGeometry width="50" height="50" relative="1" as="geometry">
                         <mxPoint x="560" y="1640" as="sourcePoint"/>
                         <mxPoint x="590" y="1640" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="65" value="" style="endArrow=none;html=1;" edge="1" parent="1">
+                <mxCell id="65" value="" style="endArrow=none;html=1;" parent="1" edge="1">
                     <mxGeometry width="50" height="50" relative="1" as="geometry">
                         <mxPoint x="560" y="1680" as="sourcePoint"/>
                         <mxPoint x="560" y="1640" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="66" value="si hay colision el juego termina" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                <mxCell id="66" value="si hay colision el juego termina" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFCCCC;" parent="1" vertex="1">
                     <mxGeometry x="495" y="1680" width="120" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="67" value="" style="endArrow=none;html=1;" edge="1" parent="1">
+                <mxCell id="67" value="" style="endArrow=none;html=1;" parent="1" edge="1">
                     <mxGeometry width="50" height="50" relative="1" as="geometry">
                         <mxPoint x="690" y="1640" as="sourcePoint"/>
                         <mxPoint x="760" y="1640" as="targetPoint"/>
@@ -261,9 +261,63 @@
                 </mxCell>
                 <mxCell id="68" value="" style="endArrow=none;html=1;" edge="1" parent="1">
                     <mxGeometry width="50" height="50" relative="1" as="geometry">
-                        <mxPoint x="720" y="1690" as="sourcePoint"/>
-                        <mxPoint x="770" y="1640" as="targetPoint"/>
+                        <mxPoint x="760" y="1720" as="sourcePoint"/>
+                        <mxPoint x="760" y="1640" as="targetPoint"/>
                     </mxGeometry>
+                </mxCell>
+                <mxCell id="69" value="se actualiza la posicion del cohete segun la entrada del jugador." style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E6E6E6;" vertex="1" parent="1">
+                    <mxGeometry x="707" y="1720" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="70" value="" style="endArrow=none;html=1;" edge="1" parent="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="760" y="1840" as="sourcePoint"/>
+                        <mxPoint x="760" y="1780" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="71" value="se dibuja la puntuacion y el cohete en la pantalla." style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FF9999;" vertex="1" parent="1">
+                    <mxGeometry x="700" y="1840" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="72" value="" style="endArrow=none;html=1;" edge="1" parent="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="760" y="1960" as="sourcePoint"/>
+                        <mxPoint x="760" y="1900" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="73" value="se actualiza la pantalla con pygame.display.update{}." style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E6E6E6;" vertex="1" parent="1">
+                    <mxGeometry x="685" y="1960" width="150" height="100" as="geometry"/>
+                </mxCell>
+                <mxCell id="74" value="" style="endArrow=none;html=1;" edge="1" parent="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="760" y="2160" as="sourcePoint"/>
+                        <mxPoint x="760" y="2060" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="75" value="" style="endArrow=none;html=1;" edge="1" parent="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="120" y="2160" as="sourcePoint"/>
+                        <mxPoint x="760" y="2160" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="77" value="" style="endArrow=none;html=1;" edge="1" parent="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="120" y="2160" as="sourcePoint"/>
+                        <mxPoint x="120" y="450" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="78" value="" style="endArrow=none;html=1;" edge="1" parent="1" target="14">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="120" y="450" as="sourcePoint"/>
+                        <mxPoint x="250" y="455" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="80" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="480" y="2160" as="sourcePoint"/>
+                        <mxPoint x="480" y="2240" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="81" value="fin" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFCCCC;" vertex="1" parent="1">
+                    <mxGeometry x="420" y="2240" width="120" height="80" as="geometry"/>
                 </mxCell>
             </root>
         </mxGraphModel>
